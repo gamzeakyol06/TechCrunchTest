@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test.TechCrunch_Test" duration-ms="201131" started-at="2023-08-17T22:43:36 EET" finished-at="2023-08-17T22:46:57 EET">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="201131" started-at="2023-08-17T22:43:36 EET" finished-at="2023-08-17T22:46:57 EET">
+      <class name="Test.TechCrunch_Test">
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:Test.TechCrunch_Test@3dd4520b]" name="BeforeMethod" is-config="true" duration-ms="3889" started-at="2023-08-17T22:43:36 EET" finished-at="2023-08-17T22:43:39 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AnyNewsLinksCheck()[pri:0, instance:Test.TechCrunch_Test@3dd4520b]" name="AnyNewsLinksCheck" duration-ms="180701" started-at="2023-08-17T22:43:39 EET" finished-at="2023-08-17T22:46:40 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AnyNewsLinksCheck -->
+        <test-method status="PASS" signature="AnyNewsTitleCheck()[pri:0, instance:Test.TechCrunch_Test@3dd4520b]" name="AnyNewsTitleCheck" duration-ms="7498" started-at="2023-08-17T22:46:40 EET" finished-at="2023-08-17T22:46:48 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AnyNewsTitleCheck -->
+        <test-method status="PASS" signature="OpenLink()[pri:0, instance:Test.TechCrunch_Test@3dd4520b]" name="OpenLink" duration-ms="2399" started-at="2023-08-17T22:46:48 EET" finished-at="2023-08-17T22:46:50 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenLink -->
+        <test-method status="PASS" signature="TheLatestNewsAuthorCheck()[pri:0, instance:Test.TechCrunch_Test@3dd4520b]" name="TheLatestNewsAuthorCheck" duration-ms="3030" started-at="2023-08-17T22:46:50 EET" finished-at="2023-08-17T22:46:53 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheLatestNewsAuthorCheck -->
+        <test-method status="PASS" signature="TheLatestNewsImageCheck()[pri:0, instance:Test.TechCrunch_Test@3dd4520b]" name="TheLatestNewsImageCheck" duration-ms="2830" started-at="2023-08-17T22:46:53 EET" finished-at="2023-08-17T22:46:56 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheLatestNewsImageCheck -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Test.TechCrunch_Test@3dd4520b]" name="aftermethod" is-config="true" duration-ms="753" started-at="2023-08-17T22:46:56 EET" finished-at="2023-08-17T22:46:57 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- Test.TechCrunch_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Test.TechCrunch_Test -->
+</testng-results>
